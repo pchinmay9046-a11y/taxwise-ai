@@ -1,0 +1,8 @@
+{
+  "name": "Remix TaxWise AI",
+  "description": "Intelligent Indian business tax planning, legal deduction optimizer, financial scenario simulator, and AI compliance assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
